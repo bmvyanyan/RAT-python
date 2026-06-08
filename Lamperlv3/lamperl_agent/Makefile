@@ -3,7 +3,7 @@ all: clean
 	@ mkdir dist
 	@ cp config.json ax_config.axs ./dist/
 	@ cp -r src_lamperl ./dist/
-	@ go build -buildmode=plugin -ldflags="-s -w" -o ./dist/lamperl_agent.so pl_main.go pl_agent.go
+	@ GOEXPERIMENT=jsonv2,greenteagc go build -buildmode=plugin -ldflags="-s -w" -o ./dist/lamperl_agent.so pl_main.go pl_agent.go
 	@ perl -c dist/src_lamperl/lamperl.pl
 	@ echo "      done..."
 
