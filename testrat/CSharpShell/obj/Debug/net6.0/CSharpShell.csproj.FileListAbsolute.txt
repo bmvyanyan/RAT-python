@@ -1,0 +1,15 @@
+/workspaces/RAT-python/testrat/CSharpShell/bin/Debug/net6.0/CSharpShell
+/workspaces/RAT-python/testrat/CSharpShell/bin/Debug/net6.0/CSharpShell.deps.json
+/workspaces/RAT-python/testrat/CSharpShell/bin/Debug/net6.0/CSharpShell.runtimeconfig.json
+/workspaces/RAT-python/testrat/CSharpShell/bin/Debug/net6.0/CSharpShell.dll
+/workspaces/RAT-python/testrat/CSharpShell/bin/Debug/net6.0/CSharpShell.pdb
+/workspaces/RAT-python/testrat/CSharpShell/obj/Debug/net6.0/CSharpShell.csproj.AssemblyReference.cache
+/workspaces/RAT-python/testrat/CSharpShell/obj/Debug/net6.0/CSharpShell.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/RAT-python/testrat/CSharpShell/obj/Debug/net6.0/CSharpShell.AssemblyInfoInputs.cache
+/workspaces/RAT-python/testrat/CSharpShell/obj/Debug/net6.0/CSharpShell.AssemblyInfo.cs
+/workspaces/RAT-python/testrat/CSharpShell/obj/Debug/net6.0/CSharpShell.csproj.CoreCompileInputs.cache
+/workspaces/RAT-python/testrat/CSharpShell/obj/Debug/net6.0/CSharpShell.dll
+/workspaces/RAT-python/testrat/CSharpShell/obj/Debug/net6.0/refint/CSharpShell.dll
+/workspaces/RAT-python/testrat/CSharpShell/obj/Debug/net6.0/CSharpShell.pdb
+/workspaces/RAT-python/testrat/CSharpShell/obj/Debug/net6.0/CSharpShell.genruntimeconfig.cache
+/workspaces/RAT-python/testrat/CSharpShell/obj/Debug/net6.0/ref/CSharpShell.dll

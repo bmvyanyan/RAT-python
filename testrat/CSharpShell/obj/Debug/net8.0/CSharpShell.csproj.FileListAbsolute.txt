@@ -1,0 +1,15 @@
+/workspaces/testrat/CSharpShell/bin/Debug/net8.0/CSharpShell
+/workspaces/testrat/CSharpShell/bin/Debug/net8.0/CSharpShell.deps.json
+/workspaces/testrat/CSharpShell/bin/Debug/net8.0/CSharpShell.runtimeconfig.json
+/workspaces/testrat/CSharpShell/bin/Debug/net8.0/CSharpShell.dll
+/workspaces/testrat/CSharpShell/bin/Debug/net8.0/CSharpShell.pdb
+/workspaces/testrat/CSharpShell/obj/Debug/net8.0/CSharpShell.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/testrat/CSharpShell/obj/Debug/net8.0/CSharpShell.AssemblyInfoInputs.cache
+/workspaces/testrat/CSharpShell/obj/Debug/net8.0/CSharpShell.AssemblyInfo.cs
+/workspaces/testrat/CSharpShell/obj/Debug/net8.0/CSharpShell.csproj.CoreCompileInputs.cache
+/workspaces/testrat/CSharpShell/obj/Debug/net8.0/CSharpShell.sourcelink.json
+/workspaces/testrat/CSharpShell/obj/Debug/net8.0/CSharpShell.dll
+/workspaces/testrat/CSharpShell/obj/Debug/net8.0/refint/CSharpShell.dll
+/workspaces/testrat/CSharpShell/obj/Debug/net8.0/CSharpShell.pdb
+/workspaces/testrat/CSharpShell/obj/Debug/net8.0/CSharpShell.genruntimeconfig.cache
+/workspaces/testrat/CSharpShell/obj/Debug/net8.0/ref/CSharpShell.dll
