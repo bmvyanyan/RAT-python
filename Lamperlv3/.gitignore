@@ -1,0 +1,4 @@
+# Ignore distribution/output directories
+# Ignore top-level dist/ and any dist/ in subdirectories
+dist/
+**/dist/

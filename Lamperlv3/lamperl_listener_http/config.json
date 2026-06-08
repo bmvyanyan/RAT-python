@@ -1,0 +1,9 @@
+{
+  "extender_type": "listener",
+  "extender_file": "lamperl_http.so",
+  "ax_file": "ax_config.axs",
+
+  "listener_name": "LamperlHTTP",
+  "listener_type": "external",
+  "protocol": "http"
+}
