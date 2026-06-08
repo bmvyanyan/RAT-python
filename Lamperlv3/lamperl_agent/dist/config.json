@@ -1,0 +1,9 @@
+{
+  "extender_type": "agent",
+  "extender_file": "lamperl_agent.so",
+  "ax_file": "ax_config.axs",
+
+  "agent_name": "Lamperl",
+  "agent_watermark": "6c616d70",
+  "listeners": [ "LamperlHTTP"]
+}
